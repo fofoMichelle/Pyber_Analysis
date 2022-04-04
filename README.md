@@ -41,6 +41,6 @@ This allowed to come up with the below results
 
 ![image](https://user-images.githubusercontent.com/99924850/161457444-4f780d5b-efc8-4ee7-81b6-2274a496b28a.png)
 ## Summary
-. The first recommendation I would give to the Pyber CEO would be to look into reducing the number of drivers in urban areas; there are 2,405 drivers which made only 1,625 rides. That means not every driver has done at least one ride. They could be divided among suburban areas and rural areas this would reduce the disparities in terms of costs in different cities.
-. Increasing the demand in rides in rural areas which could bring up the revenues in those areas as they seem to be more profitable this could be done by putting in place incentives to maintain loyal riders and drivers and attract new ones.
-. A new analysis based on the last graph is needed this will help the company understand the reason why there was a peak in Febuary which help the company to come up with ideas on how to maintain the peak in the following months which in turns would increase the overall revenue 
+- The first recommendation I would give to the Pyber CEO would be to look into reducing the number of drivers in urban areas; there are 2,405 drivers which made only 1,625 rides. That means not every driver has done at least one ride. They could be divided among suburban areas and rural areas this would reduce the disparities in terms of costs in different cities.
+- Increasing the demand in rides in rural areas which could bring up the revenues in those areas as they seem to be more profitable this could be done by putting in place incentives to maintain loyal riders and drivers and attract new ones.
+- A new analysis based on the last graph is needed this will help the company understand the reason why there was a peak in Febuary which help the company to come up with ideas on how to maintain the peak in the following months which in turns would increase the overall revenue 
