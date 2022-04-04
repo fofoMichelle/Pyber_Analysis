@@ -12,17 +12,22 @@ This allowed to come up with the below results
 
 ***Graph that show the total fares***
 
-- The figure below shows the Total Fares in different type of cities, and we can clearly see that the urban cities had a high total fare compared to suburban and rural cities which is understandable given the fact that was a high demand of rides
+
 
 ![image](https://user-images.githubusercontent.com/99924850/161457444-4f780d5b-efc8-4ee7-81b6-2274a496b28a.png)
 
+***Total ride by city type***
+
+- This summary shows that there is a high demand for Pyber in terms of rides in Urban cities compared to rural and suburban cities. The figure below demonstrates to which extend the rides in urban cities was high with 68.4% of rides originating from urban cities while suburban cities and rural cities only had a percentage of 26.3% and 5.3% respectively of the Pyber rides.
+
+![image](https://user-images.githubusercontent.com/99924850/161457700-14d4398b-5280-47f6-ac89-69b713b1dc81.png)
+
 ***Total Fare by city type***
+- The figure below shows the Total Fares in different type of cities, and we can clearly see that the urban cities had a high total fare compared to suburban and rural cities which is understandable given the fact that was a high demand of rides
 
 ![image](https://user-images.githubusercontent.com/99924850/161457617-33d10545-d86d-4de5-8092-c4aa95f491f0.png)
 
-***Total ride by city type***
 
-![image](https://user-images.githubusercontent.com/99924850/161457700-14d4398b-5280-47f6-ac89-69b713b1dc81.png)
 
 
 ***Pyber Summary of rides and fares***
