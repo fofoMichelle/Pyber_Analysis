@@ -29,7 +29,7 @@ This allowed to come up with the below results
 
 
 
-***Pyber Summary of rides and fares***
+***Pyber Summary of rides, drivers and fares***
 
 - The figure below shows also the disparities in terms of cost and we can clearly see that the rural cities pay more per ride than urban cities with the average cost per ride being almost 10$ more in rural cities compared to urban cities
 
