@@ -12,6 +12,8 @@ This allowed to come up with the below results
 
 ***Graph that show the total fares***
 
+- The figure below shows the Total Fares in different type of cities, and we can clearly see that the urban cities had a high total fare compared to suburban and rural cities which is understandable given the fact that was a high demand of rides
+
 ![image](https://user-images.githubusercontent.com/99924850/161457444-4f780d5b-efc8-4ee7-81b6-2274a496b28a.png)
 
 ***Total Fare by city type***
