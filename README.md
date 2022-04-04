@@ -10,15 +10,19 @@ Now lets dive more into the results of the analysis and small summary on how the
 In order to perform the analysis, I merged datasets using left join based on the city column and got a one dataset with all available data.  I then created summary dataframe by city type.
 This allowed to come up with the below results
 
-**Graph that show the total fares***
+***Graph that show the total fares***
+
 ![image](https://user-images.githubusercontent.com/99924850/161457444-4f780d5b-efc8-4ee7-81b6-2274a496b28a.png)
 
-***Total Fare by city type ***
+***Total Fare by city type***
+
 ![image](https://user-images.githubusercontent.com/99924850/161457617-33d10545-d86d-4de5-8092-c4aa95f491f0.png)
 
 ***Total ride by city type***
+
 ![image](https://user-images.githubusercontent.com/99924850/161457700-14d4398b-5280-47f6-ac89-69b713b1dc81.png)
 
 
 ***Pyber Summary of rides and fares***
+
 ![image](https://user-images.githubusercontent.com/99924850/161457893-75fd5cab-be41-4549-8f64-fcfbcdc80042.png)
